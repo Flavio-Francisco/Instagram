@@ -1,11 +1,11 @@
 
-import { StyleSheet, Text, View,Image } from 'react-native';
+import { StyleSheet, Text, View,Image, FlatList } from 'react-native';
 import Logo from "../../assets/logo.svg";
 import Stroke from "../../assets/stroke.svg";
 import Menssagem from "../../assets/message.svg";
 import foto from "../../assets/foto.png";
 import foto2 from "../../assets/foto2.png";
-import { FlatList } from 'react-native/Libraries/Lists/FlatList';
+
 
 const DATA = [
   {
@@ -16,7 +16,7 @@ const DATA = [
     id:Math.random().toString(36).substring(2,27),
     photoUrl: foto2,
   }
-]
+];
 
 export  function Home() {
   return (
@@ -30,11 +30,12 @@ export  function Home() {
      </View>
      <View style={styles.stories}>
       <FlatList
+      horizontal={true}
       data={DATA}
       keyExtractor={item=> item.id}
       renderItem={(item) =>(
-        <View>
-          <Image source={item.item.photoUrl}/>
+        <View style={styles.storiesCard} key={item.item.id}>
+          <Image  style={styles.storiesCardImage} source={item.item.photoUrl}/>
         </View>
       
       )}
@@ -68,7 +69,26 @@ const styles = StyleSheet.create({
     gap:10,
   },
   stories:{
-    
+    width:"100%",
+    paddingLeft:10,
+    paddingVertical:10,
+    alignItems:"center",
+
+  },
+ storiesCard:{
+ 
+  borderWidth:2,
+  borderColor:"#F7855A",
+  borderRadius:50,
+  marginRight:14,
+  padding:2
+
+  },
+  storiesCardImage:{
+    width:64,
+    height:64,
+
   }
+
 
 });
