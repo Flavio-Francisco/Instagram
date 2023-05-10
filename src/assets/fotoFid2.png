@@ -1,0 +1,621 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<link rel="dns-prefetch" href="https://fonts.googleapis.com">
+<link rel="dns-prefetch" href="https://www.google-analytics.com">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+<link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&amp;subset=latin-ext&amp;display=swap" as="font">
+<link rel="preload" href="/css/MMD14b.css" as="style">
+<link rel="preload" href="/js/jquery-mobile/jquery.mobile.custom.min.js" as="script">
+<link rel="preload" href="/js/vendor15.js" as="script">
+<link rel="preload" href="/js/MMD110.js" as="script">
+<link rel="preload" href="http://images7.memedroid.com/images/UPLOADED817/634b7a853f0e6.webp" as="image">
+
+<script src="https://accounts.google.com/gsi/client" async defer></script>
+<script defer src="/js/vendor15.js"></script>
+<script defer src="/js/MMD110.js"></script>
+
+<link media="print" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&amp;subset=latin-ext&amp;display=swap" rel="stylesheet" onload="this.onload=null;this.removeAttribute('media');">
+
+<link href="/css/MMD14b.css" rel="stylesheet">
+<meta name="google-signin-client_id" content="676384945215-328qerdal6itvi6b5hr8sg6aki537kjl.apps.googleusercontent.com">
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+<link rel="icon" href="/favicon.ico">
+<meta name="theme-color" content="#1b1b1b">
+<meta property="fb:app_id" content="275904752517274" />
+<meta name="p:domain_verify" content="4aff279e1b8142a2abc702033b5cbfda" />
+
+<link rel="manifest" href="/manifest.json">
+
+<link rel="apple-touch-icon" href="/touch-icon-iphone.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="167x167" href="/touch-icon-ipad-retina.png">
+<meta name="apple-mobile-web-app-title" content="Memedroid">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>The best Programador memes :) Memedroid</title>
+<meta name="description" content="See, rate and share the best programador memes, gifs and funny pics. Memedroid: your daily dose of fun!">
+<meta name="keywords" content="programador,memedroid,memes,gifs,funny,pictures,pics,gif,comic,lol,fun,humor,pranks,jokes,videos,vids,dank,rage,laugh,fail,best">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9633860751107932" crossorigin="anonymous"></script>
+<link rel="canonical" href="https://pt.memedroid.com/memes/tag/programador"><link href="https://www.memedroid.com/memes/tag/programador" hreflang="en" rel="alternate"><link href="https://es.memedroid.com/memes/tag/programador" hreflang="es" rel="alternate"><link href="https://pt.memedroid.com/memes/tag/programador" hreflang="pt" rel="alternate"><link href="https://fr.memedroid.com/memes/tag/programador" hreflang="fr" rel="alternate"><link href="https://it.memedroid.com/memes/tag/programador" hreflang="it" rel="alternate">
+
+
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body data-max-tag-display-length="50">
+
+<div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="login-modal-label">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<span class="modal-title" id="myModalLabel">Sign in</span>
+</div>
+<div class="modal-body">
+<form id="login-form-modal" class="form-horizontal login-form" method="post" action="/access/login">
+<div id="login-form-alert-box-modal" class="alert alert-danger fade in col-xs-12 no-eliminable-alert hidden" role="alert">
+<div class="row">
+<div class="col-xs-10 alert-box-message-container"></div>
+<div class="col-xs-1 pull-right"><button type="button" class="close" data-target="#login-form-alert-box-modal" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>
+</div>
+</div>
+<div class="form-group">
+<div class="col-xs-12">
+<input type="text" class="form-control modal-text-input" id="login-form-modal-identifier" name="identifier" maxlength="100" required pattern=".{3,100}" title="Enter a valid username (min 3 characters) or email address" placeholder="Username or email address">
+</div>
+</div>
+<div class="form-group">
+<div class="col-xs-12">
+<input type="password" class="form-control login-input-pass" id="login-form-modal-password" name="password" maxlength="20" required pattern=".{5,20}" title="Password must be between 5 and 20 characters long" placeholder="Password">
+</div>
+</div>
+<div class="form-group">
+<div class="col-xs-12 remember-me-check-box-container">
+<input id="remember-me-check-box-modal" type="checkbox" checked class="mmd-checkbox" name="rememberMe"> <label for="remember-me-check-box-modal" class="mmd-checkbox-label">Remember me</label>
+</div>
+</div>
+<div class="form-group">
+<div class="col-xs-12">
+<button id="login-button-modal" type="submit" class="btn btn-default login-button" data-target="login-form-modal" data-identifier="login-form-modal-identifier" data-password="login-form-modal-password" data-remember-me="remember-me-check-box-modal" data-alert-box="login-form-alert-box-modal" data-is-modal="1">
+<img src="/images/icons/icon_lock_white.png" width="66" height="66" loading="lazy" alt="log in icon">
+<span>Log in</span>
+<img class="spinner hidden" src="/images/white_spinner_memedroid.png" width="200" height="200" loading="lazy" alt="load spinner">
+</button>
+</div>
+</div>
+</form>
+<div id="forgotten-password-modal-link-container" class="centered-text-container">Did you forget your password? <a id="forgotten-password-modal-link" href="/password/recovery" class="green-link password-recovery-link" data-in-modal="1"><span>Click here!</span></a><img class="spinner hidden" src="/images/black_spinner_memedroid.png" width="200" height="200" loading="lazy" alt="load spinner"></div>
+<hr class="thin-hr thin-hr-grey">
+<div id="sign-in-google-button-modal-container" class="mt-4 text-center">
+<img class="spinner hidden" src="/images/green_spinner_memedroid.png" width="200" height="200" loading="lazy" alt="load spinner">
+<div id="sign-in-google-button-modal" class="sign-in-google-button"></div>
+</div>
+<div class="text-align-center mt-3">
+<button id="sign-in-fb-button-modal" class="btn btn-default sign-in-fb-button" data-alert-box="login-form-alert-box-modal" data-is-modal="1" data-oauth-type="1"><img class="sign-in-social-button-icon" src="/images/icons/icon_facebook_white.png" alt="Facebook icon" width="63" height="63" loading="lazy"><span>Sign in with Facebook</span><img class="spinner hidden" src="/images/white_spinner_memedroid.png" width="200" height="200" loading="lazy" alt="load spinner"></button>
+</div>
+<a href="/access/register" id="register-button-modal" class="btn btn-default register-now-button mt-3"><img src="/images/icons/icon_add_white.png" width="66" height="66" loading="lazy" alt="create new account icon"><span>Register now!</span><img class="spinner hidden" src="/images/white_spinner_memedroid.png" width="200" height="200" loading="lazy" alt="load spinner"></a>
+</div>
+</div>
+</div>
+</div> 
+<div class="modal fade" id="upload-modal" tabindex="-1" role="dialog" aria-labelledby="upload-modal-label">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<span class="modal-title" id="upload-modal-label">Upload Meme</span>
+</div>
+<div class="modal-body">
+<div id="upload-form-flip-container" class="flip-container" data-flipped="0">
+<div class="flipper">
+<div id="upload-form-flipper-front" class="flipper-front">
+<form id="upload-modal-form" class="form-horizontal form-modal" method="post" enctype="multipart/form-data">
+<div id="upload-form-alert" class="alert alert-danger fade in no-eliminable-alert hidden" role="alert">
+<div class="row">
+<div class="col-xs-10 alert-box-message-container"></div>
+<div class="col-xs-1 pull-right"><button type="button" class="close" data-target="#upload-form-alert" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>
+</div>
+</div>
+<div class="form-group">
+<div id="upload-form-file-input-container" class="text-center">
+<label for="upload-form-file-input">
+<img id="upload-form-image-preview" class="img-responsive upload-form-file-preview" src="/images/uploadItemFilePlaceholder.jpg" width="396" height="246" alt="select file" loading="lazy" data-placeholder="1" />
+<video id="upload-form-video-preview" class="upload-form-file-preview hidden" autoplay loop playsinline muted></video>
+<img id="upload-form-file-preview-spinner" class="spinner hidden" src="/images/white_spinner_memedroid.png" loading="lazy" width="200" height="200" alt="load spinner">
+<span id="upload-form-file-preview-desktop-span" class="hidden-xs">Click to select a file or drop it here (image or video)</span>
+<span id="upload-form-file-preview-mobile-span" class="visible-xs">Tap here to select an image or video file</span>
+</label>
+<input id="upload-form-file-input" required type="file" name="item" accept=".jpg,.jpeg,.png,.webp,.gif,.mp4,.webm" data-no-image-message="Please select a file in PNG, JPG, WEBP, GIF, MP4 or WEBM format." data-file-type="" />
+</div>
+</div>
+<div class="form-group">
+<div class="col-xs-12">
+<input type="text" class="form-control modal-text-input" id="upload-form-title" name="title" maxlength="255" required title="Title" placeholder="Title">
+</div>
+</div>
+<div class="form-group">
+<div class="col-xs-12">
+ <input type="text" class="form-control" id="upload-form-tags" name="tags" maxlength="10" title="Tags" placeholder="Tags" data-error-message="Please enter some tags for your meme">
+</div>
+</div>
+<div id="upload-form-language-container" class="form-group">
+<select name="language" id="upload-form-language" class="form-control">
+<option selected value="EN">English</option>
+<option value="ES">Spanish</option>
+<option value="FR">French</option>
+<option value="IT">Italian</option>
+<option value="PT">Portuguese</option>
+</select>
+</div>
+<div class="form-group modal-button-container">
+<div class="col-xs-12">
+<button id="upload-button-modal" type="submit" class="btn btn-default" data-default-label="Upload!" data-uploading-label="Uploading" data-processing-label="Processing...">
+<img id="upload-form-button-default-icon" src="/images/icons/icon_upload_white.png" width="48" height="48" loading="lazy" alt="upload icon">
+<img id="upload-form-button-spinner-icon" class="spinner hidden" src="/images/white_spinner_memedroid.png" width="200" height="200" loading="lazy" alt="load spinner">
+<span id="upload-form-button-label">Upload!</span>
+</button>
+</div>
+</div>
+</form>
+</div>
+<div id="upload-form-flipper-back" class="flipper-back hidden">
+<img id="upload-form-flipper-back-preview-image" class="img-responsive upload-form-flipper-back-preview" src="/images/uploadItemFilePlaceholder.jpg" width="396" height="246" loading="lazy" alt="select file" />
+<video id="upload-form-flipper-back-preview-video" class="upload-form-flipper-back-preview hidden" loop playsinline muted></video>
+<div id="upload-form-alert-success" class="alert alert-success" role="alert">
+<p class="bold">Awww yeah! Your meme was successfully uploaded and it is now in moderation.</p>
+<p>It will be published if it complies with the <a href="/rules" target="_blank"><b>content rules</b></a> and our moderators approve it.</p>
+</div>
+<div class="row">
+<div class="col-xs-6">
+<button id="upload-form-upload-more-button" class="btn btn-default">
+<img src="/images/icons/icon_upload_white.png" width="48" height="48" loading="lazy" alt="upload icon">
+<span>Upload more</span>
+</button>
+</div>
+<div class="col-xs-6">
+<button id="upload-form-exit-button" class="btn btn-default">
+<img src="/images/icons/icon_close_white.png" width="48" height="48" loading="lazy" alt="upload icon">
+<span>Close</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="feed-modal" tabindex="-1" role="dialog" aria-labelledby="feed-modal-label">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<span id="feed-modal-header" class="modal-title">Notifications</span>
+<img id="feed-modal-spinner" class="spinner" src="/images/black_spinner_memedroid.png" width="200" height="200" loading="lazy" alt="load spinner">
+</div>
+<div id="feed-modal-body" class="modal-body">
+<div id="feed-modal-main-filter-row" class="row mx-0">
+<div class="col-xs-3" id="notifications-item-filter-container">
+<button class="btn-default" type="button" id="notifications-item-filter" data-target-class="item-entry">
+<img src="/images/icons/notifications/icon_item_white.png" width="48" height="48" loading="lazy" alt="items icon">
+<span>0</span>
+</button>
+</div>
+<div class="col-xs-3" id="notifications-subscription-item-container">
+<button class="btn-default" type="button" id="notifications-subscription-item-filter" data-target-class="subscription-item-entry">
+<img src="/images/icons/notifications/icon_subscription_item_white.png" width="48" height="48" loading="lazy" alt="subscriptions icon">
+<span>0</span>
+</button>
+</div>
+<div class="col-xs-3" id="notifications-comment-filter-container">
+<button class="btn-default" type="button" id="notifications-comment-filter" data-target-class="comment-entry">
+<img src="/images/icons/notifications/icon_comment_white.png" width="48" height="48" loading="lazy" alt="comments icon">
+<span>0</span>
+</button>
+</div>
+<div class="col-xs-3" id="notifications-social-filter-container">
+<button class="btn-default" type="button" id="notifications-social-filter" data-target-class="social-entry">
+<img src="/images/icons/notifications/icon_social_white.png" width="48" height="48" loading="lazy" alt="social icon">
+<span>0</span>
+</button>
+</div>
+<a id="all-notifications-blocked-info" class="col-xs-12 green-background white bold hidden">Notifications disabled. Click to enable.</a>
+</div>
+<div id="feed-modal-notifications-container">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="top-bar">
+<div id="top-bar-main-container" class="container">
+<div id="top-bar-main-row" class="row">
+<div id="top-bar-first-column" class="col-xs-3 col-sm-3">
+<div id="sidebar-toggle-button" class="visible-xs" data-toggle="offcanvas">
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+<span id="sidebar-toggle-button-badge" class="mobile-badge hidden"></span>
+</div>
+<form id="search-form" class="search-form form-horizontal hidden-xs" action="/search" method="get" data-input-id="#search-form-input">
+<div class="form-group">
+<div class="input-group">
+<div class="input-group-addon"><img src="/images/icons/icon_search_small_dark_gray.png" width="39" height="39" loading="lazy" alt="find icon"></div>
+<input name="query" type="text" class="form-control" id="search-form-input" maxlength="255" placeholder="Search">
+</div>
+</div>
+</form>
+</div>
+<header class="col-xs-6 col-sm-6">
+<h1>
+<a href="/" title="Memedroid - The best site to see, rate and share memes, gifs and funny pics!">
+<img id="memedroid-logo" src="/images/memedroid-logo.png" width="450" height="82" class="img-responsive" alt="Memedroid - The best site to see, rate and share memes, gifs and funny pics!">
+</a>
+</h1>
+</header>
+<div class="col-xs-3 col-sm-3" id="top-bar-right-container" data-user-logged-in="0">
+<a id="sign-in-container" href="/access/login"><img src="/images/icons/icon_sign_in_white.png" width="66" height="66" alt="sign in icon"><span class="hidden-xs">Sign In</span></a> </div>
+</div>
+<span id="header-message" style="font-size: 1em; width: 100%; text-align: center; display:block;"></span>
+</div>
+<div id="main-loading-bar" class="load-bar">
+<div class="bar"></div>
+<div class="bar"></div>
+</div>
+</div>
+<div id="master-container" class="container">
+<div id="master-container-main-row" class="row row-offcanvas row-offcanvas-left">
+<div class="col-xs-9 col-sm-3 sidebar-offcanvas" id="sidebar"> 
+<div id="sidebar-main-container">
+<button class="btn btn-default memedroid-green-background" type="submit" id="sidebar-upload-button">
+<img src="/images/icons/icon_upload_white.png" width="48" height="48" loading="lazy" alt="upload meme icon">
+Upload Meme </button>
+<form id="search-form-mobile" class="search-form form-horizontal visible-xs" action="/search" method="get" data-input-id="#search-form-mobile-input">
+<div class="form-group">
+<div class="input-group">
+<div class="input-group-addon"><img src="/images/icons/icon_search_small_dark_gray.png" width="39" height="39" loading="lazy" alt="find icon"></div>
+<input name="query" type="text" class="form-control" id="search-form-mobile-input" maxlength="255" placeholder="Search">
+</div>
+</div>
+</form>
+<hr>
+<nav id="main-nav">
+<h1 class="hidden">Main menu</h1>
+<ul id="main-menu-list">
+<li class="main-menu-list-link">
+<a id="gallery-main-menu-button" href="/memes/latest" data-enabled="false" data-title-container="#gallery-section"><img src="/images/icons/main-menu/icon_gallery_white.png" height="66" loading="lazy" alt="latest memes icon disabled" class="main-menu-icon disabled-icon"><img src="/images/icons/main-menu/icon_gallery_green.png" height="66" loading="lazy" alt="latest memes icon enabled" class="main-menu-icon enabled-icon hidden">Latest Memes</a> </li>
+<li>
+<a role="button" id="top-memes-main-menu-button" data-enabled="false" data-toggle="collapse" href="#top-options-collapse-container" aria-expanded="false" aria-controls="top-options-collapse-container">
+<img src="/images/icons/main-menu/icon_top_white.png" width="66" height="66" loading="lazy" alt="top memes icon disabled" class="main-menu-icon disabled-icon"><img src="/images/icons/main-menu/icon_top_green.png" width="66" height="66" loading="lazy" alt="top memes icon disabled" class="main-menu-icon enabled-icon hidden"> Top Memes <img id="top-memes-main-menu-button-expandable-icon" class="expandable-list-icon" src="/images/icons/main-menu/icon_expandable_list_element_white.png" height="66" loading="lazy" alt="expand top">
+</a>
+<div class="collapse" id="top-options-collapse-container">
+<ul id="main-menu-list-top">
+<li>
+<a href="/memes/top/day" data-enabled="false" data-title-container="#top-gallery-section"><img src="/images/icons/main-menu/icon_top_day_white.png" width="66" height="66" loading="lazy" alt="top day memes icon disabled" class="main-menu-icon disabled-icon"><img src="/images/icons/main-menu/icon_top_day_green.png" width="66" height="66" loading="lazy" alt="top day memes icon enabled" class="main-menu-icon enabled-icon hidden">Top Day</a> </li>
+<li>
+<a href="/memes/top/week" data-enabled="false" data-title-container="#top-gallery-section"><img src="/images/icons/main-menu/icon_top_week_white.png" width="66" height="66" loading="lazy" alt="top week memes icon disabled" class="main-menu-icon disabled-icon"><img src="/images/icons/main-menu/icon_top_week_green.png" width="66" height="66" loading="lazy" alt="top week memes icon enabled" class="main-menu-icon enabled-icon hidden">Top Week</a> </li>
+<li>
+<a href="/memes/top/month" data-enabled="false" data-title-container="#top-gallery-section"><img src="/images/icons/main-menu/icon_top_month_white.png" width="66" height="66" loading="lazy" alt="top month memes icon disabled" class="main-menu-icon disabled-icon"><img src="/images/icons/main-menu/icon_top_month_green.png" width="66" height="66" loading="lazy" alt="top month memes icon enabled" class="main-menu-icon enabled-icon hidden">Top Month</a> </li>
+<li>
+<a href="/memes/top/ever" data-enabled="false" data-title-container="#top-gallery-section"><img src="/images/icons/main-menu/icon_top_ever_white.png" width="66" height="66" loading="lazy" alt="top ever memes icon disabled" class="main-menu-icon disabled-icon"><img src="/images/icons/main-menu/icon_top_ever_green.png" width="66" height="66" loading="lazy" alt="top ever memes icon enabled" class="main-menu-icon enabled-icon hidden">Top Ever</a> </li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/memes/random" data-title-container="#random-gallery-section" data-enabled="false"><img src="/images/icons/main-menu/icon_random_white.png" width="66" height="66" loading="lazy" alt="random memes icon disabled" class="main-menu-icon disabled-icon"><img src="/images/icons/main-menu/icon_random_green.png" width="66" height="66" loading="lazy" alt="random memes icon enabled" class="main-menu-icon enabled-icon hidden">Random Memes</a> </li>
+<li>
+<a href="/memes/subscriptions" data-title-container="#subscriptions-gallery-section" data-enabled="false"><img src="/images/icons/main-menu/icon_subscriptions_white.png" width="66" height="66" loading="lazy" alt="my subscriptions memes icon disabled" class="main-menu-icon disabled-icon"><img src="/images/icons/main-menu/icon_subscriptions_green.png" width="66" height="66" loading="lazy" alt="my subscriptions memes icon enabled" class="main-menu-icon enabled-icon hidden">My Subscriptions</a> </li>
+<li>
+<a href="/memes/favorites" data-title-container="#favorites-section" data-enabled="false"><img src="/images/icons/main-menu/icon_favorites_white.png" width="66" height="66" loading="lazy" alt="my favorites memes icon disabled" class="main-menu-icon disabled-icon"><img src="/images/icons/main-menu/icon_favorites_green.png" width="66" height="66" loading="lazy" alt="my favorites memes icon enabled" class="main-menu-icon enabled-icon hidden">Favorites</a> </li>
+<li>
+<a href="/memes/moderate" data-title-container="#item-moderation-section" data-enabled="false"><img src="/images/icons/main-menu/icon_moderate_white.png" width="66" height="66" loading="lazy" alt="moderate memes icon disabled" class="main-menu-icon disabled-icon"><img src="/images/icons/main-menu/icon_moderate_green.png" width="66" height="66" loading="lazy" alt="moderate memes icon enabled" class="main-menu-icon enabled-icon hidden">Moderate</a> </li>
+<li>
+<a href="/memes/my-uploads" data-enabled="false" data-title-container="#my-uploads-section"><img src="/images/icons/main-menu/icon_upload_zone_white.png" width="66" height="66" loading="lazy" alt="my uploaded memes icon disabled" class="main-menu-icon disabled-icon"><img src="/images/icons/main-menu/icon_upload_zone_green.png" width="66" height="66" loading="lazy" alt="my uploaded memes icon enabled" class="main-menu-icon enabled-icon hidden">My Uploads</a> </li>
+<li>
+<a href="/chat" data-enabled="false" data-title-container="#chat-section"><img src="/images/icons/main-menu/icon_chat_white.png" width="66" height="66" loading="lazy" alt="chat icon disabled" class="main-menu-icon disabled-icon"><img src="/images/icons/main-menu/icon_chat_green.png" width="66" height="66" loading="lazy" alt="chat icon enabled" class="main-menu-icon enabled-icon hidden">Chat<span id="chat-notification-badge" class="hidden" data-is-enabled="0"></span></a> </li>
+<li>
+<a href="/ranking" data-enabled="false" data-title-container="#ranking-section"><img src="/images/icons/main-menu/icon_ranking_bag_white.png" width="66" height="66" loading="lazy" alt="user ranking icon disabled" class="main-menu-icon disabled-icon"><img src="/images/icons/main-menu/icon_ranking_bag_green.png" width="66" height="66" loading="lazy" alt="user ranking icon enabled" class="main-menu-icon enabled-icon hidden">Ranking</a> </li>
+<li>
+<a id="mobile-app-main-menu-button" href="/mobile-app" target="_blank" class="main-menu-no-dyn-link-button"><img src="/images/icons/main-menu/icon_get_the_app_blue.png" width="66" height="66" loading="lazy" alt="mobile app icon disabled" class="main-menu-icon disabled-icon"><span class="blue-1 bold">Mobile App</span></a> </li>
+</ul>
+<hr>
+<ul id="main-menu-list-languages">
+<li>
+<a role="button" id="languages-main-menu-button" data-toggle="collapse" href="#languages-collapse-container" aria-expanded="false" aria-controls="languages-collapse-container">
+<img src="/images/icons/main-menu/languages/pt.png" alt="language icon" width="66" height="66" loading="lazy">
+Portuguese
+<img id="languages-main-menu-button-expandable-icon" class="expandable-list-icon" src="/images/icons/main-menu/icon_expandable_list_element_white.png" width="66" height="66" loading="lazy" alt="expand language list">
+</a>
+<div class="collapse" id="languages-collapse-container">
+<ul class="main-menu-sublist" id="main-menu-sublist-languages"><li>
+<a href="https://www.memedroid.com">
+<img src="/images/icons/main-menu/languages/en.png" width="66" height="66" loading="lazy" alt="Memedroid in English icon">
+English
+</a>
+</li><li>
+<a href="https://es.memedroid.com">
+<img src="/images/icons/main-menu/languages/es.png" width="66" height="66" loading="lazy" alt="Memedroid in Spanish icon">
+Spanish
+</a>
+</li><li>
+<a href="https://fr.memedroid.com">
+<img src="/images/icons/main-menu/languages/fr.png" width="66" height="66" loading="lazy" alt="Memedroid in French icon">
+French
+</a>
+</li><li>
+<a href="https://it.memedroid.com">
+<img src="/images/icons/main-menu/languages/it.png" width="66" height="66" loading="lazy" alt="Memedroid in Italian icon">
+Italian
+</a>
+</li></ul>
+</div> </li>
+</ul>
+<hr>
+</nav>
+<footer>
+<ul>
+<li><a class="dyn-link" data-title-container="#contact-section" href="/contact">Contact us</a> | <a class="dyn-link" data-title-container="#rules-section" href="/rules">Site rules</a></li>
+<li><a class="dyn-link" data-title-container="#tos-section" href="/tos">Terms of service</a> | <a class="dyn-link" data-title-container="#privacy-section" href="/privacy">Privacy</a></li>
+</ul>
+<div class="row">
+<div class="col-xs-12">
+<hr>
+</div>
+<div class="col-xs-12">
+© 2023 <a href="https://www.novagecko.com" target="_blank" rel="author noopener"><img src="/images/novagecko-logo.png" width="270" height="76" loading="lazy" style="height:auto" alt="Logo of Novagecko, mobile app developers"></a>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6" id="main-container"> 
+<section class="default-section" id="tags-gallery-section" data-title="The best Programador memes :) Memedroid"><div class="tags-gallery-section-header-container grey-background"><header><h1>Programador memes</h1></header></div><div class="gallery-memes-container"><article id="article-item-3817491" data-type="1" data-item-id="3817491" class="gallery-item"><div class="item-aux-container"><header class="item-header" data-ts="1665898208"><h1><a class="item-header-title dyn-link" data-title-container="#item-detail-section" href="/memes/detail/3817491/VIDA-DE-PROGRAMADOR-NAO-E-FACIL?refGallery=tags&page=1&tag=programador">VIDA DE PROGRAMADOR NÃO É FACIL</a></h1>
+<div class="header-item-info green-3">
+By <a href="/user/view/Dedu157" class="dyn-link" data-title-container="#user-profile-section" rel="author">Dedu157</a>
+<time datetime="2022-10-16T01:30:08">2022-10-16 02:30</time>
+</div></header><a href="/memes/detail/3817491/VIDA-DE-PROGRAMADOR-NAO-E-FACIL?refGallery=tags&page=1&tag=programador" class="dyn-link" data-title-container="#item-detail-section"><picture><source srcset="https://images7.memedroid.com/images/UPLOADED817/634b7a853f0e6.webp" type="image/webp"><source srcset="https://images7.memedroid.com/images/UPLOADED817/634b7a853f0e6.jpeg" type="image/jpeg"><img src="https://images7.memedroid.com/images/UPLOADED817/634b7a853f0e6.jpeg" class="img-responsive grey-background" width="1080" height="1010" loading="eager" alt="VIDA DE PROGRAMADOR NÃO É FACIL - meme"></picture></a><div class="item-controls"><div class="row">
+<div class="col-xs-3"><a class="comment-dyn-link" data-title-container="#item-detail-section" href="/memes/detail/3817491/VIDA-DE-PROGRAMADOR-NAO-E-FACIL?refGallery=tags&page=1&tag=programador&goComments=1"><img class="item-controls-icon item-controls-icon-comments" data-item-id="3817491" src="/images/icons/icon_comments_white.png" alt="comments icon"></a></div>
+<div class="col-xs-6">
+<img class="item-rating-icon item-rating-icon-dislike" src="/images/icons/icon_dislike.png" width="90" height="90" loading="lazy" alt="dislike icon" data-item-ID="3817491">
+<div class="item-rating-container" data-votes="294" data-positive-votes="276">
+<span class="green-1">94%</span>
+<span class="item-rating-vote-count">(294)</span>
+</div>
+<img class="item-rating-icon item-rating-icon-like" src="/images/icons/icon_like.png" width="90" height="90" loading="lazy" alt="like icon" data-item-ID="3817491">
+</div>
+<div class="col-xs-3"><img class="item-controls-icon item-controls-icon-share" src="/images/icons/icon_share_white.png" width="90" height="90" loading="lazy" alt="share icon" data-target="item-share-container-3817491"></div>
+</div></div><div id="item-share-container-3817491" class="no-display gallery-item-share-container">
+<div class="row">
+<button class="col-xs-2 gallery-item-share-fb" aria-label="Share on Facebook" data-link="https://pt.memedroid.com/memes/detail/3817491" data-picture="https://images7.memedroid.com/images/UPLOADED817/634b7a853f0e6.webp" data-title="VIDA DE PROGRAMADOR NÃO É FACIL" data-description="Your daily dose of fun on memedroid.com"></button>
+<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fpt.memedroid.com%2Fmemes%2Fdetail%2F3817491&via=memedroid&text=VIDA%20DE%20PROGRAMADOR%20N%C3%83O%20%C3%89%20FACIL" class="col-xs-2 gallery-item-share-twitter" aria-label="Share on Twitter"></a>
+<a href="#" class="col-xs-2 gallery-item-share-copy hidden-xs" data-share-link="https://pt.memedroid.com/memes/detail/3817491" data-item-id="3817491" aria-label="Copy link"></a>
+<a target="_blank" rel="noopener" href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fpt.memedroid.com%2Fmemes%2Fdetail%2F3817491&media=https%3A%2F%2Fimages7.memedroid.com%2Fimages%2FUPLOADED817%2F634b7a853f0e6.webp&description=VIDA%20DE%20PROGRAMADOR%20N%C3%83O%20%C3%89%20FACIL" class="col-xs-2 gallery-item-share-pinterest" aria-label="Share on Pinterest"></a>
+<a href="whatsapp://send?text=Check this out! https://pt.memedroid.com/memes/detail/3817491" data-action="share/whatsapp/share" class="col-xs-2 gallery-item-share-whatsapp visible-xs-block" aria-label="Share on Whatsapp"></a>
+<a target="_blank" rel="noopener" href="http://www.reddit.com/submit?url=https://pt.memedroid.com/memes/detail/3817491&title=VIDA%20DE%20PROGRAMADOR%20N%C3%83O%20%C3%89%20FACIL" class="col-xs-2 gallery-item-share-reddit" aria-label="Share on Reddit"></a>
+<a href="/cdn-cgi/l/email-protection#ad92ded8cfc7c8ced990eec5c8cec6889f9dd9c5c4de889f9dc2d8d9889f9c8bcfc2c9d490f9c5c4de889f9dc4de889f9dcbd8c3c3d4889fee889f9dd4c2d8889f9ac1c1889f9dc1c4c6c8889f9dc4d9889f9c889de9889dec889d94889d94c5d9d9ddde889eec889feb889febddd983c0c8c0c8c9dfc2c4c983cec2c0889febc0c8c0c8de889febc9c8d9ccc4c1889feb9e959c9a99949c889de9889dec889d94889d94" class="col-xs-2 gallery-item-share-email" aria-label="Share by email"></a>
+</div>
+</div>
+<div id="item-message-container-3817491" class="no-display gallery-item-message-container"></div></div><div id="item-tags-container-3817491" class="tags-container" data-tags="memes br,programador"><img src="/images/icons/icon_tag_grey.png" width="60" height="60" loading="lazy" alt="tags icon"><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/memes+br">Memes Br</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/programador">Programador</a></div></article><article id="article-item-3437762" data-type="1" data-item-id="3437762" class="gallery-item"><div class="item-aux-container"><header class="item-header" data-ts="1628731804"><h1><a class="item-header-title dyn-link" data-title-container="#item-detail-section" href="/memes/detail/3437762/Isso-msm?refGallery=tags&page=1&tag=programador">Isso msm</a></h1>
+<div class="header-item-info green-3">
+By <a href="/user/view/Ceevorheuse" class="dyn-link" data-title-container="#user-profile-section" rel="author">Ceevorheuse</a>
+<time datetime="2021-08-11T21:30:04">2021-08-11 22:30</time>
+</div></header><a href="/memes/detail/3437762/Isso-msm?refGallery=tags&page=1&tag=programador" class="dyn-link" data-title-container="#item-detail-section"><picture><source srcset="https://images7.memedroid.com/images/UPLOADED946/6114695e3f212.jpeg" type="image/jpeg"><img src="https://images7.memedroid.com/images/UPLOADED946/6114695e3f212.jpeg" class="img-responsive grey-background" width="720" height="490" loading="eager" alt="Isso msm - meme"></picture></a><div class="item-controls"><div class="row">
+<div class="col-xs-3"><a class="comment-dyn-link" data-title-container="#item-detail-section" href="/memes/detail/3437762/Isso-msm?refGallery=tags&page=1&tag=programador&goComments=1"><img class="item-controls-icon item-controls-icon-comments" data-item-id="3437762" src="/images/icons/icon_comments_white.png" alt="comments icon"></a></div>
+<div class="col-xs-6">
+<img class="item-rating-icon item-rating-icon-dislike" src="/images/icons/icon_dislike.png" width="90" height="90" loading="lazy" alt="dislike icon" data-item-ID="3437762">
+<div class="item-rating-container" data-votes="386" data-positive-votes="361">
+<span class="green-1">94%</span>
+<span class="item-rating-vote-count">(386)</span>
+</div>
+<img class="item-rating-icon item-rating-icon-like" src="/images/icons/icon_like.png" width="90" height="90" loading="lazy" alt="like icon" data-item-ID="3437762">
+</div>
+<div class="col-xs-3"><img class="item-controls-icon item-controls-icon-share" src="/images/icons/icon_share_white.png" width="90" height="90" loading="lazy" alt="share icon" data-target="item-share-container-3437762"></div>
+</div></div><div id="item-share-container-3437762" class="no-display gallery-item-share-container">
+<div class="row">
+<button class="col-xs-2 gallery-item-share-fb" aria-label="Share on Facebook" data-link="https://pt.memedroid.com/memes/detail/3437762" data-picture="https://images7.memedroid.com/images/UPLOADED946/6114695e3f212.jpeg" data-title="Isso msm" data-description="Your daily dose of fun on memedroid.com"></button>
+<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fpt.memedroid.com%2Fmemes%2Fdetail%2F3437762&via=memedroid&text=Isso%20msm" class="col-xs-2 gallery-item-share-twitter" aria-label="Share on Twitter"></a>
+<a href="#" class="col-xs-2 gallery-item-share-copy hidden-xs" data-share-link="https://pt.memedroid.com/memes/detail/3437762" data-item-id="3437762" aria-label="Copy link"></a>
+<a target="_blank" rel="noopener" href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fpt.memedroid.com%2Fmemes%2Fdetail%2F3437762&media=https%3A%2F%2Fimages7.memedroid.com%2Fimages%2FUPLOADED946%2F6114695e3f212.jpeg&description=Isso%20msm" class="col-xs-2 gallery-item-share-pinterest" aria-label="Share on Pinterest"></a>
+<a href="whatsapp://send?text=Check this out! https://pt.memedroid.com/memes/detail/3437762" data-action="share/whatsapp/share" class="col-xs-2 gallery-item-share-whatsapp visible-xs-block" aria-label="Share on Whatsapp"></a>
+<a target="_blank" rel="noopener" href="http://www.reddit.com/submit?url=https://pt.memedroid.com/memes/detail/3437762&title=Isso%20msm" class="col-xs-2 gallery-item-share-reddit" aria-label="Share on Reddit"></a>
+<a href="/cdn-cgi/l/email-protection#437c303621292620377e002b262028667173372b2a306671732c363766717265212c273a7e172b2a306671732a3066717325362d2d3a6671006671733a2c366671742f2f6671732f2a28266671732a3766717266730766730266737a66737a2b3737333066700266710566710533376d2e262e2627312c2a276d202c2e6671052e262e2630667105272637222a2f6671057077707474757166730766730266737a66737a" class="col-xs-2 gallery-item-share-email" aria-label="Share by email"></a>
+</div>
+</div>
+<div id="item-message-container-3437762" class="no-display gallery-item-message-container"></div></div><div id="item-tags-container-3437762" class="tags-container" data-tags="matematica,meme,memes,memebr,memedroid,memesBR,memes br,programador,sla porra"><img src="/images/icons/icon_tag_grey.png" width="60" height="60" loading="lazy" alt="tags icon"><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/matematica">Matematica</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/meme">Meme</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/memes">Memes</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/memebr">Memebr</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/memedroid">Memedroid</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/memesbr">MemesBR</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/memes+br">Memes Br</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/programador">Programador</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/sla+porra">Sla Porra</a></div></article><article id="article-item-3419483" data-type="1" data-item-id="3419483" class="gallery-item"><div class="item-aux-container"><header class="item-header" data-ts="1627246808"><h1><a class="item-header-title dyn-link" data-title-container="#item-detail-section" href="/memes/detail/3419483/E-ainda-esquecem-do?refGallery=tags&page=1&tag=programador">E ainda esquecem do &quot;;&quot;</a></h1>
+<div class="header-item-info green-3">
+By <a href="/user/view/Ceevorheuse" class="dyn-link" data-title-container="#user-profile-section" rel="author">Ceevorheuse</a>
+<time datetime="2021-07-25T17:00:08">2021-07-25 18:00</time>
+</div></header><a href="/memes/detail/3419483/E-ainda-esquecem-do?refGallery=tags&page=1&tag=programador" class="dyn-link" data-title-container="#item-detail-section"><picture><source srcset="https://images7.memedroid.com/images/UPLOADED908/60fdc460429b8.jpeg" type="image/jpeg"><img src="https://images7.memedroid.com/images/UPLOADED908/60fdc460429b8.jpeg" class="img-responsive grey-background" width="719" height="519" loading="eager" alt="E ainda esquecem do &quot;;&quot; - meme"></picture></a><div class="item-controls"><div class="row">
+<div class="col-xs-3"><a class="comment-dyn-link" data-title-container="#item-detail-section" href="/memes/detail/3419483/E-ainda-esquecem-do?refGallery=tags&page=1&tag=programador&goComments=1"><img class="item-controls-icon item-controls-icon-comments" data-item-id="3419483" src="/images/icons/icon_comments_white.png" alt="comments icon"></a></div>
+<div class="col-xs-6">
+<img class="item-rating-icon item-rating-icon-dislike" src="/images/icons/icon_dislike.png" width="90" height="90" loading="lazy" alt="dislike icon" data-item-ID="3419483">
+<div class="item-rating-container" data-votes="395" data-positive-votes="373">
+<span class="green-1">94%</span>
+<span class="item-rating-vote-count">(395)</span>
+</div>
+<img class="item-rating-icon item-rating-icon-like" src="/images/icons/icon_like.png" width="90" height="90" loading="lazy" alt="like icon" data-item-ID="3419483">
+</div>
+<div class="col-xs-3"><img class="item-controls-icon item-controls-icon-share" src="/images/icons/icon_share_white.png" width="90" height="90" loading="lazy" alt="share icon" data-target="item-share-container-3419483"></div>
+</div></div><div id="item-share-container-3419483" class="no-display gallery-item-share-container">
+<div class="row">
+<button class="col-xs-2 gallery-item-share-fb" aria-label="Share on Facebook" data-link="https://pt.memedroid.com/memes/detail/3419483" data-picture="https://images7.memedroid.com/images/UPLOADED908/60fdc460429b8.jpeg" data-title="E ainda esquecem do &quot;;&quot;" data-description="Your daily dose of fun on memedroid.com"></button>
+<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fpt.memedroid.com%2Fmemes%2Fdetail%2F3419483&via=memedroid&text=E%20ainda%20esquecem%20do%20%26quot%3B%3B%26quot%3B" class="col-xs-2 gallery-item-share-twitter" aria-label="Share on Twitter"></a>
+<a href="#" class="col-xs-2 gallery-item-share-copy hidden-xs" data-share-link="https://pt.memedroid.com/memes/detail/3419483" data-item-id="3419483" aria-label="Copy link"></a>
+<a target="_blank" rel="noopener" href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fpt.memedroid.com%2Fmemes%2Fdetail%2F3419483&media=https%3A%2F%2Fimages7.memedroid.com%2Fimages%2FUPLOADED908%2F60fdc460429b8.jpeg&description=E%20ainda%20esquecem%20do%20%26quot%3B%3B%26quot%3B" class="col-xs-2 gallery-item-share-pinterest" aria-label="Share on Pinterest"></a>
+<a href="whatsapp://send?text=Check this out! https://pt.memedroid.com/memes/detail/3419483" data-action="share/whatsapp/share" class="col-xs-2 gallery-item-share-whatsapp visible-xs-block" aria-label="Share on Whatsapp"></a>
+<a target="_blank" rel="noopener" href="http://www.reddit.com/submit?url=https://pt.memedroid.com/memes/detail/3419483&title=E%20ainda%20esquecem%20do%20%26quot%3B%3B%26quot%3B" class="col-xs-2 gallery-item-share-reddit" aria-label="Share on Reddit"></a>
+<a href="/cdn-cgi/l/email-protection#2e115d5b4c444b4d5a136d464b4d450b1c1e5a46475d0b1c1e415b5a0b1c1f084c414a57137a46475d0b1c1e475d0b1c1e485b4040570b1c6d0b1c1e57415b0b1c1942420b1c1e4247454b0b1c1e475a0b1c1f0b1e6a0b1e6f0b1e170b1e17465a5a5e5d0b1d6f0b1c680b1c685e5a00434b434b4a5c41474a004d41430b1c68434b434b5d0b1c684a4b5a4f47420b1c681d1a1f171a161d0b1e6a0b1e6f0b1e170b1e17" class="col-xs-2 gallery-item-share-email" aria-label="Share by email"></a>
+</div>
+</div>
+<div id="item-message-container-3419483" class="no-display gallery-item-message-container"></div></div><div id="item-tags-container-3419483" class="tags-container" data-tags="programação,programador,programar,doge,programadores,meme,memes,memedroid,memebr,sla porra"><img src="/images/icons/icon_tag_grey.png" width="60" height="60" loading="lazy" alt="tags icon"><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/programa%C3%A7%C3%A3o">Programação</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/programador">Programador</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/programar">Programar</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/doge">Doge</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/programadores">Programadores</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/meme">Meme</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/memes">Memes</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/memedroid">Memedroid</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/memebr">Memebr</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/sla+porra">Sla Porra</a></div></article><div class="text-align" style="margin-bottom:2em"><div class="freestar-video-ad-container" id="FreeStarVideoAdContainer"><div id="freestar-video-parent"><div id="freestar-video-child"></div></div></div></div><article id="article-item-3078734" data-type="1" data-item-id="3078734" class="gallery-item"><div class="item-aux-container"><header class="item-header" data-ts="1600358408"><h1><a class="item-header-title dyn-link" data-title-container="#item-detail-section" href="/memes/detail/3078734/So-quero-programar-um-robo-que-corrige-pronome-neutro-po?refGallery=tags&page=1&tag=programador">Só quero programar um robo que corrige pronome neutro po</a></h1>
+<div class="header-item-info green-3">
+By <a href="/user/view/Rafhaell" class="dyn-link" data-title-container="#user-profile-section" rel="author">Rafhaell</a>
+<time datetime="2020-09-17T12:00:08">2020-09-17 13:00</time>
+</div></header><a href="/memes/detail/3078734/So-quero-programar-um-robo-que-corrige-pronome-neutro-po?refGallery=tags&page=1&tag=programador" class="dyn-link" data-title-container="#item-detail-section"><picture><source srcset="https://images3.memedroid.com/images/UPLOADED460/5f637d7216580.jpeg" type="image/jpeg"><img src="https://images3.memedroid.com/images/UPLOADED460/5f637d7216580.jpeg" class="img-responsive grey-background" width="907" height="853" loading="eager" alt="Só quero programar um robo que corrige pronome neutro po - meme"></picture></a><div class="item-controls"><div class="row">
+<div class="col-xs-3"><a class="comment-dyn-link" data-title-container="#item-detail-section" href="/memes/detail/3078734/So-quero-programar-um-robo-que-corrige-pronome-neutro-po?refGallery=tags&page=1&tag=programador&goComments=1"><img class="item-controls-icon item-controls-icon-comments" data-item-id="3078734" src="/images/icons/icon_comments_white.png" alt="comments icon"></a></div>
+<div class="col-xs-6">
+<img class="item-rating-icon item-rating-icon-dislike" src="/images/icons/icon_dislike.png" width="90" height="90" loading="lazy" alt="dislike icon" data-item-ID="3078734">
+<div class="item-rating-container" data-votes="392" data-positive-votes="253">
+<span class="white">65%</span>
+<span class="item-rating-vote-count">(392)</span>
+</div>
+<img class="item-rating-icon item-rating-icon-like" src="/images/icons/icon_like.png" width="90" height="90" loading="lazy" alt="like icon" data-item-ID="3078734">
+</div>
+<div class="col-xs-3"><img class="item-controls-icon item-controls-icon-share" src="/images/icons/icon_share_white.png" width="90" height="90" loading="lazy" alt="share icon" data-target="item-share-container-3078734"></div>
+</div></div><div id="item-share-container-3078734" class="no-display gallery-item-share-container">
+<div class="row">
+<button class="col-xs-2 gallery-item-share-fb" aria-label="Share on Facebook" data-link="https://pt.memedroid.com/memes/detail/3078734" data-picture="https://images3.memedroid.com/images/UPLOADED460/5f637d7216580.jpeg" data-title="Só quero programar um robo que corrige pronome neutro po" data-description="Your daily dose of fun on memedroid.com"></button>
+<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fpt.memedroid.com%2Fmemes%2Fdetail%2F3078734&via=memedroid&text=S%C3%B3%20quero%20programar%20um%20robo%20que%20corrige%20pronome%20neutro%20po" class="col-xs-2 gallery-item-share-twitter" aria-label="Share on Twitter"></a>
+<a href="#" class="col-xs-2 gallery-item-share-copy hidden-xs" data-share-link="https://pt.memedroid.com/memes/detail/3078734" data-item-id="3078734" aria-label="Copy link"></a>
+<a target="_blank" rel="noopener" href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fpt.memedroid.com%2Fmemes%2Fdetail%2F3078734&media=https%3A%2F%2Fimages3.memedroid.com%2Fimages%2FUPLOADED460%2F5f637d7216580.jpeg&description=S%C3%B3%20quero%20programar%20um%20robo%20que%20corrige%20pronome%20neutro%20po" class="col-xs-2 gallery-item-share-pinterest" aria-label="Share on Pinterest"></a>
+<a href="whatsapp://send?text=Check this out! https://pt.memedroid.com/memes/detail/3078734" data-action="share/whatsapp/share" class="col-xs-2 gallery-item-share-whatsapp visible-xs-block" aria-label="Share on Whatsapp"></a>
+<a target="_blank" rel="noopener" href="http://www.reddit.com/submit?url=https://pt.memedroid.com/memes/detail/3078734&title=S%C3%B3%20quero%20programar%20um%20robo%20que%20corrige%20pronome%20neutro%20po" class="col-xs-2 gallery-item-share-reddit" aria-label="Share on Reddit"></a>
+<a href="/cdn-cgi/l/email-protection#ac93dfd9cec6c9cfd891efc4c9cfc7899e9cd8c4c5df899e9cc3d9d8899e9d8acec3c8d591f8c4c5df899e9cc5df899e9ccad9c2c2d5899eef899e9cd5c3d9899e9bc0c0899e9cc0c5c7c9899e9cc5d8899e9d899ce8899ced899c95899c95c4d8d8dcdf899fed899eea899eeadcd882c1c9c1c9c8dec3c5c882cfc3c1899eeac1c9c1c9df899eeac8c9d8cdc5c0899eea9f9c9b949b9f98899ce8899ced899c95899c95" class="col-xs-2 gallery-item-share-email" aria-label="Share by email"></a>
+</div>
+</div>
+<div id="item-message-container-3078734" class="no-display gallery-item-message-container"></div></div><div id="item-tags-container-3078734" class="tags-container" data-tags="programação,programadores,programador,Computação"><img src="/images/icons/icon_tag_grey.png" width="60" height="60" loading="lazy" alt="tags icon"><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/programa%C3%A7%C3%A3o">Programação</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/programadores">Programadores</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/programador">Programador</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/computa%C3%A7%C3%A3o">Computação</a></div></article><article id="article-item-2943971" data-type="1" data-item-id="2943971" class="gallery-item"><div class="item-aux-container"><header class="item-header" data-ts="1588388408"><h1><a class="item-header-title dyn-link" data-title-container="#item-detail-section" href="/memes/detail/2943971/Quem-ja-programou-vai-entender?refGallery=tags&page=1&tag=programador">Quem já programou vai entender</a></h1>
+<div class="header-item-info green-3">
+By <a href="/user/view/ilunnie" class="dyn-link" data-title-container="#user-profile-section" rel="author">ilunnie</a>
+<time datetime="2020-05-01T23:00:08">2020-05-02 00:00</time>
+</div></header><a href="/memes/detail/2943971/Quem-ja-programou-vai-entender?refGallery=tags&page=1&tag=programador" class="dyn-link" data-title-container="#item-detail-section"><picture><source srcset="https://images3.memedroid.com/images/UPLOADED16/5eacd767b944a.jpeg" type="image/jpeg"><img src="https://images3.memedroid.com/images/UPLOADED16/5eacd767b944a.jpeg" class="img-responsive grey-background" width="582" height="553" loading="eager" alt="Quem já programou vai entender - meme"></picture></a><div class="item-controls"><div class="row">
+<div class="col-xs-3"><a class="comment-dyn-link" data-title-container="#item-detail-section" href="/memes/detail/2943971/Quem-ja-programou-vai-entender?refGallery=tags&page=1&tag=programador&goComments=1"><img class="item-controls-icon item-controls-icon-comments" data-item-id="2943971" src="/images/icons/icon_comments_white.png" alt="comments icon"></a></div>
+<div class="col-xs-6">
+<img class="item-rating-icon item-rating-icon-dislike" src="/images/icons/icon_dislike.png" width="90" height="90" loading="lazy" alt="dislike icon" data-item-ID="2943971">
+<div class="item-rating-container" data-votes="541" data-positive-votes="494">
+<span class="green-1">91%</span>
+<span class="item-rating-vote-count">(541)</span>
+</div>
+<img class="item-rating-icon item-rating-icon-like" src="/images/icons/icon_like.png" width="90" height="90" loading="lazy" alt="like icon" data-item-ID="2943971">
+</div>
+<div class="col-xs-3"><img class="item-controls-icon item-controls-icon-share" src="/images/icons/icon_share_white.png" width="90" height="90" loading="lazy" alt="share icon" data-target="item-share-container-2943971"></div>
+</div></div><div id="item-share-container-2943971" class="no-display gallery-item-share-container">
+<div class="row">
+<button class="col-xs-2 gallery-item-share-fb" aria-label="Share on Facebook" data-link="https://pt.memedroid.com/memes/detail/2943971" data-picture="https://images3.memedroid.com/images/UPLOADED16/5eacd767b944a.jpeg" data-title="Quem já programou vai entender" data-description="Your daily dose of fun on memedroid.com"></button>
+<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fpt.memedroid.com%2Fmemes%2Fdetail%2F2943971&via=memedroid&text=Quem%20j%C3%A1%20programou%20vai%20entender" class="col-xs-2 gallery-item-share-twitter" aria-label="Share on Twitter"></a>
+<a href="#" class="col-xs-2 gallery-item-share-copy hidden-xs" data-share-link="https://pt.memedroid.com/memes/detail/2943971" data-item-id="2943971" aria-label="Copy link"></a>
+<a target="_blank" rel="noopener" href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fpt.memedroid.com%2Fmemes%2Fdetail%2F2943971&media=https%3A%2F%2Fimages3.memedroid.com%2Fimages%2FUPLOADED16%2F5eacd767b944a.jpeg&description=Quem%20j%C3%A1%20programou%20vai%20entender" class="col-xs-2 gallery-item-share-pinterest" aria-label="Share on Pinterest"></a>
+<a href="whatsapp://send?text=Check this out! https://pt.memedroid.com/memes/detail/2943971" data-action="share/whatsapp/share" class="col-xs-2 gallery-item-share-whatsapp visible-xs-block" aria-label="Share on Whatsapp"></a>
+<a target="_blank" rel="noopener" href="http://www.reddit.com/submit?url=https://pt.memedroid.com/memes/detail/2943971&title=Quem%20j%C3%A1%20programou%20vai%20entender" class="col-xs-2 gallery-item-share-reddit" aria-label="Share on Reddit"></a>
+<a href="/cdn-cgi/l/email-protection#b58ac6c0d7dfd0d6c188f6ddd0d6de908785c1dddcc6908785dac0c190878493d7dad1cc88e1dddcc6908785dcc6908785d3c0dbdbcc9087f6908785ccdac0908782d9d9908785d9dcded0908785dcc19087849085f19085f490858c90858cddc1c1c5c69086f49087f39087f3c5c19bd8d0d8d0d1c7dadcd19bd6dad89087f3d8d0d8d0c69087f3d1d0c1d4dcd99087f3878c81868c82849085f19085f490858c90858c" class="col-xs-2 gallery-item-share-email" aria-label="Share by email"></a>
+</div>
+</div>
+<div id="item-message-container-2943971" class="no-display gallery-item-message-container"></div></div><div id="item-tags-container-2943971" class="tags-container" data-tags="Programa,Programar,Programas,Programador,Programadores,programming,programmer,programmers,program,Programs"><img src="/images/icons/icon_tag_grey.png" width="60" height="60" loading="lazy" alt="tags icon"><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/programa">Programa</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/programar">Programar</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/programas">Programas</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/programador">Programador</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/programadores">Programadores</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/programming">Programming</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/programmer">Programmer</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/programmers">Programmers</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/program">Program</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/programs">Programs</a></div></article><article id="article-item-2441616" data-type="1" data-item-id="2441616" class="gallery-item"><div class="item-aux-container"><header class="item-header" data-ts="1532043021"><h1><a class="item-header-title dyn-link" data-title-container="#item-detail-section" href="/memes/detail/2441616/Baseado-na-base-real?refGallery=tags&page=1&tag=programador">Baseado na base real</a></h1>
+<div class="header-item-info green-3">
+By <a href="/user/view/NewMeta150ml" class="dyn-link" data-title-container="#user-profile-section" rel="author">NewMeta150ml</a>
+<time datetime="2018-07-19T19:30:21">2018-07-19 20:30</time>
+</div></header><a href="/memes/detail/2441616/Baseado-na-base-real?refGallery=tags&page=1&tag=programador" class="dyn-link" data-title-container="#item-detail-section"><picture><source srcset="https://images7.memedroid.com/images/UPLOADED568/5b510f65564e8.jpeg" type="image/jpeg"><img src="https://images7.memedroid.com/images/UPLOADED568/5b510f65564e8.jpeg" class="img-responsive grey-background" width="745" height="1183" loading="eager" alt="Baseado na base real - meme"></picture></a><div class="item-controls"><div class="row">
+<div class="col-xs-3"><a class="comment-dyn-link" data-title-container="#item-detail-section" href="/memes/detail/2441616/Baseado-na-base-real?refGallery=tags&page=1&tag=programador&goComments=1"><img class="item-controls-icon item-controls-icon-comments" data-item-id="2441616" src="/images/icons/icon_comments_white.png" alt="comments icon"></a></div>
+<div class="col-xs-6">
+<img class="item-rating-icon item-rating-icon-dislike" src="/images/icons/icon_dislike.png" width="90" height="90" loading="lazy" alt="dislike icon" data-item-ID="2441616">
+<div class="item-rating-container" data-votes="580" data-positive-votes="537">
+<span class="green-1">93%</span>
+<span class="item-rating-vote-count">(580)</span>
+</div>
+<img class="item-rating-icon item-rating-icon-like" src="/images/icons/icon_like.png" width="90" height="90" loading="lazy" alt="like icon" data-item-ID="2441616">
+</div>
+<div class="col-xs-3"><img class="item-controls-icon item-controls-icon-share" src="/images/icons/icon_share_white.png" width="90" height="90" loading="lazy" alt="share icon" data-target="item-share-container-2441616"></div>
+</div></div><div id="item-share-container-2441616" class="no-display gallery-item-share-container">
+<div class="row">
+<button class="col-xs-2 gallery-item-share-fb" aria-label="Share on Facebook" data-link="https://pt.memedroid.com/memes/detail/2441616" data-picture="https://images7.memedroid.com/images/UPLOADED568/5b510f65564e8.jpeg" data-title="Baseado na base real" data-description="Your daily dose of fun on memedroid.com"></button>
+<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fpt.memedroid.com%2Fmemes%2Fdetail%2F2441616&via=memedroid&text=Baseado%20na%20base%20real" class="col-xs-2 gallery-item-share-twitter" aria-label="Share on Twitter"></a>
+<a href="#" class="col-xs-2 gallery-item-share-copy hidden-xs" data-share-link="https://pt.memedroid.com/memes/detail/2441616" data-item-id="2441616" aria-label="Copy link"></a>
+<a target="_blank" rel="noopener" href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fpt.memedroid.com%2Fmemes%2Fdetail%2F2441616&media=https%3A%2F%2Fimages7.memedroid.com%2Fimages%2FUPLOADED568%2F5b510f65564e8.jpeg&description=Baseado%20na%20base%20real" class="col-xs-2 gallery-item-share-pinterest" aria-label="Share on Pinterest"></a>
+<a href="whatsapp://send?text=Check this out! https://pt.memedroid.com/memes/detail/2441616" data-action="share/whatsapp/share" class="col-xs-2 gallery-item-share-whatsapp visible-xs-block" aria-label="Share on Whatsapp"></a>
+<a target="_blank" rel="noopener" href="http://www.reddit.com/submit?url=https://pt.memedroid.com/memes/detail/2441616&title=Baseado%20na%20base%20real" class="col-xs-2 gallery-item-share-reddit" aria-label="Share on Reddit"></a>
+<a href="/cdn-cgi/l/email-protection#b887cbcddad2dddbcc85fbd0dddbd39d8a88ccd0d1cb9d8a88d7cdcc9d8a899edad7dcc185ecd0d1cb9d8a88d1cb9d8a88decdd6d6c19d8afb9d8a88c1d7cd9d8a8fd4d49d8a88d4d1d3dd9d8a88d1cc9d8a899d88fc9d88f99d88819d8881d0ccccc8cb9d8bf99d8afe9d8afec8cc96d5ddd5dddccad7d1dc96dbd7d59d8afed5ddd5ddcb9d8afedcddccd9d1d49d8afe8a8c8c898e898e9d88fc9d88f99d88819d8881" class="col-xs-2 gallery-item-share-email" aria-label="Share by email"></a>
+</div>
+</div>
+<div id="item-message-container-2441616" class="no-display gallery-item-message-container"></div></div><div id="item-tags-container-2441616" class="tags-container" data-tags="Historia de vida,nem tudo é o que parece,superação,não superei nada,programador,desenvolvedor,apps,programas,150ml,faculdade,mãe,amo"><img src="/images/icons/icon_tag_grey.png" width="60" height="60" loading="lazy" alt="tags icon"><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/historia+de+vida">Historia De Vida</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/nem+tudo+%C3%A9+o+que+parece">Nem Tudo é O Que Parece</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/supera%C3%A7%C3%A3o">Superação</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/n%C3%A3o+superei+nada">Não Superei Nada</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/programador">Programador</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/desenvolvedor">Desenvolvedor</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/apps">Apps</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/programas">Programas</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/150ml">150ml</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/faculdade">Faculdade</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/m%C3%A3e">Mãe</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/amo">Amo</a></div></article><article id="article-item-1460490" data-type="1" data-item-id="1460490" class="gallery-item"><div class="item-aux-container"><header class="item-header" data-ts="1443232811"><h1><a class="item-header-title dyn-link" data-title-container="#item-detail-section" href="/memes/detail/1460490?refGallery=tags&page=1&tag=programador">Bem isso!! =D</a></h1>
+<div class="header-item-info green-3">
+By <a href="/user/view/Bitstorm" class="dyn-link" data-title-container="#user-profile-section" rel="author">Bitstorm</a>
+<time datetime="2015-09-25T22:00:11">2015-09-25 23:00</time>
+</div></header><a href="/memes/detail/1460490?refGallery=tags&page=1&tag=programador" class="dyn-link" data-title-container="#item-detail-section"><picture><source srcset="https://images7.memedroid.com/images/UPLOADED122/5605dd1ee6f71.jpeg" type="image/jpeg"><img src="https://images7.memedroid.com/images/UPLOADED122/5605dd1ee6f71.jpeg" class="img-responsive grey-background" width="600" height="600" loading="eager" alt="Bem isso!! =D - meme"></picture></a><div class="item-controls"><div class="row">
+<div class="col-xs-3"><a class="comment-dyn-link" data-title-container="#item-detail-section" href="/memes/detail/1460490?refGallery=tags&page=1&tag=programador&goComments=1"><img class="item-controls-icon item-controls-icon-comments" data-item-id="1460490" src="/images/icons/icon_comments_white.png" alt="comments icon"></a></div>
+<div class="col-xs-6">
+<img class="item-rating-icon item-rating-icon-dislike" src="/images/icons/icon_dislike.png" width="90" height="90" loading="lazy" alt="dislike icon" data-item-ID="1460490">
+<div class="item-rating-container" data-votes="527" data-positive-votes="470">
+<span class="green-1">89%</span>
+<span class="item-rating-vote-count">(527)</span>
+</div>
+<img class="item-rating-icon item-rating-icon-like" src="/images/icons/icon_like.png" width="90" height="90" loading="lazy" alt="like icon" data-item-ID="1460490">
+</div>
+<div class="col-xs-3"><img class="item-controls-icon item-controls-icon-share" src="/images/icons/icon_share_white.png" width="90" height="90" loading="lazy" alt="share icon" data-target="item-share-container-1460490"></div>
+</div></div><div id="item-share-container-1460490" class="no-display gallery-item-share-container">
+<div class="row">
+<button class="col-xs-2 gallery-item-share-fb" aria-label="Share on Facebook" data-link="https://pt.memedroid.com/memes/detail/1460490" data-picture="https://images7.memedroid.com/images/UPLOADED122/5605dd1ee6f71.jpeg" data-title="Bem isso!! =D" data-description="Your daily dose of fun on memedroid.com"></button>
+<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fpt.memedroid.com%2Fmemes%2Fdetail%2F1460490&via=memedroid&text=Bem%20isso%21%21%20%3DD" class="col-xs-2 gallery-item-share-twitter" aria-label="Share on Twitter"></a>
+<a href="#" class="col-xs-2 gallery-item-share-copy hidden-xs" data-share-link="https://pt.memedroid.com/memes/detail/1460490" data-item-id="1460490" aria-label="Copy link"></a>
+<a target="_blank" rel="noopener" href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fpt.memedroid.com%2Fmemes%2Fdetail%2F1460490&media=https%3A%2F%2Fimages7.memedroid.com%2Fimages%2FUPLOADED122%2F5605dd1ee6f71.jpeg&description=Bem%20isso%21%21%20%3DD" class="col-xs-2 gallery-item-share-pinterest" aria-label="Share on Pinterest"></a>
+<a href="whatsapp://send?text=Check this out! https://pt.memedroid.com/memes/detail/1460490" data-action="share/whatsapp/share" class="col-xs-2 gallery-item-share-whatsapp visible-xs-block" aria-label="Share on Whatsapp"></a>
+<a target="_blank" rel="noopener" href="http://www.reddit.com/submit?url=https://pt.memedroid.com/memes/detail/1460490&title=Bem%20isso%21%21%20%3DD" class="col-xs-2 gallery-item-share-reddit" aria-label="Share on Reddit"></a>
+<a href="/cdn-cgi/l/email-protection#3c034f495e56595f48017f54595f57190e0c4854554f190e0c534948190e0d1a5e535845016854554f190e0c554f190e0c5a49525245190e7f190e0c455349190e0b5050190e0c50555759190e0c5548190e0d190c78190c7d190c05190c055448484c4f190f7d190e7a190e7a4c481251595159584e535558125f5351190e7a515951594f190e7a5859485d5550190e7a0d080a0c08050c190c78190c7d190c05190c05" class="col-xs-2 gallery-item-share-email" aria-label="Share by email"></a>
+</div>
+</div>
+<div id="item-message-container-1460490" class="no-display gallery-item-message-container"></div></div><div id="item-tags-container-1460490" class="tags-container" data-tags="Linux,programador,informática,fauna"><img src="/images/icons/icon_tag_grey.png" width="60" height="60" loading="lazy" alt="tags icon"><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/linux">Linux</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/programador">Programador</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/inform%C3%A1tica">Informática</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/fauna">Fauna</a></div></article></div></section></div> 
+<aside id="main-aside" class="col-xs-6 col-sm-3 hidden-xs"> 
+<div id="aside-ad-container">
+<div align="center" style="min-height:600px; background-color: #1d1d1d" id="memdroid_300x600_right_1" data-ad-id="memdroid_300x600_right_1" class="permanent-ad-container"></div> </div>
+<nav id="aside-tags-container" class="grey-background rounded-borders" style="margin-bottom:1em">
+<section id="popular-tags-widget">
+<header><h1 class="green-1 size-16 bold">Trending Tags</h1></header>
+<div class="tags-container">
+<a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/memedroid">Memedroid</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/bixinte+sua+lambisgoia">Bixinte Sua Lambisgoia</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/bixinte+%C3%A9+lindo+e+gostoso">Bixinte é Lindo E Gostoso</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/bixinte">Bixinte</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/bixinte+gay">Bixinte Gay</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/gato">Gato</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/faz+o+l">FAZ O L</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/bob+esponja">Bob Esponja</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/minecraft">Minecraft</a><a class="dyn-link" data-title-container="#tags-gallery-section" href="/memes/tag/raluca">Raluca</a> </div>
+</section>
+</nav>
+<div id="aside-affix-container">
+<div id="aside-app-banner">
+<div><a href="/mobile-app" target="_blank"><span>Get the</span><span> APP!</span></a></div>
+<div>
+<a href="https://play.google.com/store/apps/details?id=com.novagecko.memedroid&utm_source=memedroid&utm_medium=web" target="_blank" rel="noopener"><img src="/images/mobile-app/play_store_badge_en.png" class="hover-small-grow img-responsive" width="260" height="77" loading="lazy" alt="get Memedroid on Google Play"></a>
+<a href="https://itunes.apple.com/app/id549014460" target="_blank" rel="noopener"><img src="/images/mobile-app/appstore_badge_en.png" class="hover-small-grow img-responsive" width="260" height="77" loading="lazy" alt="get Memedroid on the App store"></a>
+</div>
+</div>
+<div id="aside-social-links-container">
+<a href="https://www.instagram.com/memedroid_fun/" target="_blank" rel="noopener" id="aside-social-link-instagram">
+<img class="img-responsive" src="/images/icons/icon_instagram_white.png" width="63" height="63" loading="lazy" alt="Instagram icon">
+</a>
+<a href="https://www.tiktok.com/@memedroid_official" target="_blank" rel="noopener" id="aside-social-link-tiktok">
+<img class="img-responsive" src="/images/icons/icon_tiktok_white_coloured.png" width="63" height="63" loading="lazy" alt="Tiktok icon">
+</a>
+<a href="https://www.facebook.com/Memedroid-140547176037984/" target="_blank" rel="noopener" id="aside-social-link-fb">
+<img class="img-responsive" src="/images/icons/icon_facebook_white.png" width="63" height="63" loading="lazy" alt="Facebook icon">
+</a>
+<a href="https://www.pinterest.com/memedroid0064/" target="_blank" rel="noopener" id="aside-social-link-pinterest">
+<img class="img-responsive" src="/images/icons/icon_pinterest_white.png" width="63" height="63" loading="lazy" alt="Pinterest icon">
+</a>
+<a href="https://twitter.com/memedroid" target="_blank" rel="noopener" id="aside-social-link-twitter">
+<img class="img-responsive" src="/images/icons/icon_twitter_white.png" width="57" height="57" loading="lazy" alt="Twitter icon">
+</a>
+</div>
+<div align="center" id="memdroid_300x250_right_2" style="margin-top: 1em" data-ad-id="memdroid_300x250_right_2" class="permanent-ad-container"></div>
+</div>
+</aside> 
+</div>
+</div>
+
+<div id="get-app-message-container" class="hidden get-app-message-container-3" data-event-label="var-5">
+<a id="get-app-message-button-install" class="white" target="_blank" rel="noopener" href="https://play.google.com/store/apps/details?id=com.novagecko.memedroid&utm_source=memedroid&utm_medium=web">
+<img id="get-app-message-app-icon" src="/images/mobile-app/app_icon_128.png" width="127" height="128" loading="lazy">
+<span class="bold size-18">Get the App!</span>
+<div id="get-app-message-container-5-free-button-container"><span id="get-app-message-container-5-free-button" class="white bold size-16">Free</span></div>
+</a>
+<a id="get-app-message-button-close" href="#"><img src="/images/icons/icon_close_white.png" width="48" height="48" loading="false"></a>
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>let MMDStrings={"linkCopied":"Link copied!","linkCopiedError":"Error: could not copy link","Now":"Now","itemShareDescription":"Your daily dose of fun on memedroid.com","itemCheckOutInvitation":"Check this out!","itemEmailInvitation":"This is funny, you&#039;ll like it!","moreButtonLabels":["More memes please!","I want more fun :)","Psst, hey you... wanna some memes more?","We have more memes for you, click here!"]}</script> <script>let MMDConfig={"locale":"en_US","language":"EN","adScriptPath":"\/js\/ads6.js","adScriptTimeout":1000,"SFEnabled":true,"SFFirstLoadWaitSeconds":10,"SFMinCapSeconds":60,"thumbnailDefaultWidth":120,"thumbnailDefaultHeight":120,"maxScrollRequestsPerPage":4}</script>
+<script>window.addEventListener("load", function(e){GalleryHandler=new MMDTagsGalleryHandlerFactory().buildGalleryHandler([{"ID":3817491,"type":1,"title":"VIDA DE PROGRAMADOR N\u00c3O \u00c9 FACIL","tags":"Memes Br,Programador","url":"https:\/\/images7.memedroid.com\/images\/UPLOADED817\/634b7a853f0e6.jpeg","timestamp":1665898208,"votes":294,"positiveVotes":276,"uploaderName":"Dedu157","uploaderID":1590209,"rating":0.938776,"width":1080,"height":1010,"urlWebp":"https:\/\/images7.memedroid.com\/images\/UPLOADED817\/634b7a853f0e6.webp","thumbnailURL":"https:\/\/images7.memedroid.com\/images\/UPLOADED817\/634b7a853f0e6_thumb_s.jpeg","thumbnailURLWebp":"https:\/\/images7.memedroid.com\/images\/UPLOADED817\/634b7a853f0e6_thumb_s.webp","titleToSlug":"VIDA-DE-PROGRAMADOR-NAO-E-FACIL"},{"ID":3437762,"type":1,"title":"Isso msm","tags":"Matematica,Meme,Memes,Memebr,Memedroid,MemesBR,Memes Br,Programador,Sla Porra","url":"https:\/\/images7.memedroid.com\/images\/UPLOADED946\/6114695e3f212.jpeg","timestamp":1628731804,"votes":386,"positiveVotes":361,"uploaderName":"Ceevorheuse","uploaderID":1562809,"rating":0.935233,"width":720,"height":490,"thumbnailURL":"https:\/\/images7.memedroid.com\/images\/UPLOADED946\/6114695e3f212_thumb_s.jpeg","titleToSlug":"Isso-msm"},{"ID":3419483,"type":1,"title":"E ainda esquecem do \";\"","tags":"Programa\u00e7\u00e3o,Programador,Programar,Doge,Programadores,Meme,Memes,Memedroid,Memebr,Sla Porra","url":"https:\/\/images7.memedroid.com\/images\/UPLOADED908\/60fdc460429b8.jpeg","timestamp":1627246808,"votes":395,"positiveVotes":373,"uploaderName":"Ceevorheuse","uploaderID":1562809,"rating":0.944304,"width":719,"height":519,"thumbnailURL":"https:\/\/images7.memedroid.com\/images\/UPLOADED908\/60fdc460429b8_thumb_s.jpeg","titleToSlug":"E-ainda-esquecem-do"},{"ID":3078734,"type":1,"title":"S\u00f3 quero programar um robo que corrige pronome neutro po","tags":"Programa\u00e7\u00e3o,Programadores,Programador,Computa\u00e7\u00e3o","url":"https:\/\/images3.memedroid.com\/images\/UPLOADED460\/5f637d7216580.jpeg","timestamp":1600358408,"votes":392,"positiveVotes":253,"uploaderName":"Rafhaell","uploaderID":1243411,"rating":0.645408,"width":907,"height":853,"thumbnailURL":"https:\/\/images3.memedroid.com\/images\/UPLOADED460\/5f637d7216580_thumb_s.jpeg","titleToSlug":"So-quero-programar-um-robo-que-corrige-pronome-neutro-po"},{"ID":2943971,"type":1,"title":"Quem j\u00e1 programou vai entender","tags":"Programa,Programar,Programas,Programador,Programadores,Programming,Programmer,Programmers,Program,Programs","url":"https:\/\/images3.memedroid.com\/images\/UPLOADED16\/5eacd767b944a.jpeg","timestamp":1588388408,"votes":541,"positiveVotes":494,"uploaderName":"ilunnie","uploaderID":1433352,"rating":0.913124,"width":582,"height":553,"thumbnailURL":"https:\/\/images3.memedroid.com\/images\/UPLOADED16\/5eacd767b944a_thumb_s.jpeg","titleToSlug":"Quem-ja-programou-vai-entender"},{"ID":2441616,"type":1,"title":"Baseado na base real","tags":"Historia De Vida,Nem Tudo \u00e9 O Que Parece,Supera\u00e7\u00e3o,N\u00e3o Superei Nada,Programador,Desenvolvedor,Apps,Programas,150ml,Faculdade,M\u00e3e,Amo","url":"https:\/\/images7.memedroid.com\/images\/UPLOADED568\/5b510f65564e8.jpeg","timestamp":1532043021,"votes":580,"positiveVotes":537,"uploaderName":"NewMeta150ml","uploaderID":1225842,"rating":0.925862,"width":745,"height":1183,"thumbnailURL":"https:\/\/images7.memedroid.com\/images\/UPLOADED568\/5b510f65564e8_thumb_s.jpeg","titleToSlug":"Baseado-na-base-real"},{"ID":1460490,"type":1,"title":"Bem isso!! =D","tags":"Linux,Programador,Inform\u00e1tica,Fauna","url":"https:\/\/images7.memedroid.com\/images\/UPLOADED122\/5605dd1ee6f71.jpeg","timestamp":1443232811,"votes":527,"positiveVotes":470,"uploaderName":"Bitstorm","uploaderID":129279,"rating":0.891841,"width":600,"height":600,"thumbnailURL":"https:\/\/images7.memedroid.com\/images\/UPLOADED122\/5605dd1ee6f71_thumb_s.jpeg","titleToSlug":null}],{"itemShareDescription":"Your daily dose of fun on memedroid.com","itemCheckOutInvitation":"Check this out!","itemEmailInvitation":"This is funny, you'll like it!"},"PT",1,true,4,["More memes please!","I want more fun :)","Psst, hey you... wanna some memes more?","We have more memes for you, click here!"],null,"programador",false);});</script>
+</body>
+</html>

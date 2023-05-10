@@ -3,16 +3,21 @@ import { StyleSheet, Text, View, Image, FlatList, ScrollView } from 'react-nativ
 import Logo from "../../assets/logo.svg";
 import Stroke from "../../assets/stroke.svg";
 import Menssagem from "../../assets/message.svg";
-import foto from "../../assets/foto.png";
-import foto2 from "../../assets/foto2.png";
 import Points from "../../assets/points.svg";
 import Bookmark from "../../assets/Bookmark.svg";
 import Heart from "../../assets/Heart.svg";
 import Comment from "../../assets/Comment.svg";
 import Share from "../../assets/Share.svg";
-import image from "../../assets/image.png";
-
-
+import image from "../../assets/fotoFidAtualizado.png";
+import image2 from "../../assets/fidCafe.png";
+import Foto from "../../assets/flavio1.png";
+import foto from "../../assets/Flavio.png";
+import foto2 from "../../assets/Marcodes.png";
+import foto3 from "../../assets/Ewerton.png";
+import foto4 from "../../assets/Meire.png";
+import foto5 from "../../assets/obama.png";
+import foto6 from "../../assets/uninassau.png";
+import foto7 from "../../assets/Bill_Gates.png";
 
 const DATA = [
   {
@@ -22,14 +27,37 @@ const DATA = [
   {
     id:Math.random().toString(36).substring(2,27),
     photoUrl: foto2,
-  }
+  },
+  {
+    id:Math.random().toString(36).substring(2,27),
+    photoUrl: foto3,
+  },
+  {
+    id:Math.random().toString(36).substring(2,27),
+    photoUrl: foto4,
+  },
+  {
+    id:Math.random().toString(36).substring(2,27),
+    photoUrl: foto5,
+  },
+  {
+    id:Math.random().toString(36).substring(2,27),
+    photoUrl: foto6,
+  },
+  {
+    id:Math.random().toString(36).substring(2,27),
+    photoUrl: foto7,
+  },
 ];
+
 
 export  function Home() {
   return (
     <View style={styles.container}>
      <View style={styles.header}>
-       <Logo/>
+  
+      <Logo/>
+       
        <View style={styles.headerOption}>
          <Stroke/> 
          <Menssagem/>
@@ -53,14 +81,14 @@ export  function Home() {
         <View style={styles.content}>
          <View style={styles.contentHeader}>
             <View style={styles.contentHeaderLeft}>
-              <Image style={styles.contentHeaderImage}  source={foto}/>
-              <Text style={styles.contentHeaderText}>Jaison</Text>
+              <Image style={styles.contentHeaderImage}  source={Foto}/>
+              <Text style={styles.contentHeaderText}>Flávio</Text>
             </View>
             <Points/>
             
          </View>
           <View style={ styles.imageUser}>
-            <Image source={image}/>
+            <Image style={ styles.imageFid} source={image}/>
           </View>
          <View style={styles.contentFooter}>
           <View style={{width:"100%", flexDirection:"row", justifyContent:"space-between"}}>
@@ -82,14 +110,14 @@ export  function Home() {
            <View style={styles.content}>
          <View style={styles.contentHeader}>
             <View style={styles.contentHeaderLeft}>
-              <Image style={styles.contentHeaderImage}  source={foto}/>
-              <Text style={styles.contentHeaderText}>Jaison</Text>
+              <Image style={styles.contentHeaderImage}  source={Foto}/>
+              <Text style={styles.contentHeaderText}>Flávio</Text>
             </View>
             <Points/>
             
          </View>
           <View style={ styles.imageUser}>
-            <Image source={image}/>
+            <Image style={ styles.imageFid} source={image2}/>
           </View>
          <View style={styles.contentFooter}>
           <View style={{width:"100%", flexDirection:"row", justifyContent:"space-between"}}>
@@ -134,6 +162,12 @@ const styles = StyleSheet.create({
     flexDirection:'row',
     gap:10,
   },
+  imageFid:{
+    width:"100%",
+    height:450,
+    borderRadius:3,
+  },
+
 
   stories:{
     height:114,

@@ -6,7 +6,7 @@ import House from'../assets/house.svg';
 import Search from'../assets/search.svg';
 import Union from'../assets/union.svg';
 import Store from'../assets/store.svg';
-import foto from'../assets/foto.png';
+import foto from'../assets/Flavio.png';
 
 
 const Tab = createBottomTabNavigator();
@@ -52,6 +52,7 @@ export function TabsRoutes() {
         style ={{
             width:32,
             height:32,
+            borderRadius:50,
 
         }}
         source={foto}/>,      
