@@ -1,5 +1,5 @@
 
-import { StyleSheet, Text, View, Image, FlatList, ScrollView } from 'react-native';
+import { StyleSheet, Text, View, Image, FlatList, ScrollView, TextInput} from 'react-native';
 import Logo from "../../assets/logo.svg";
 import Stroke from "../../assets/stroke.svg";
 import Menssagem from "../../assets/message.svg";
@@ -19,39 +19,53 @@ import foto5 from "../../assets/obama.png";
 import foto6 from "../../assets/uninassau.png";
 import foto7 from "../../assets/Bill_Gates.png";
 
+
+
 const DATA = [
   {
     id:Math.random().toString(36).substring(2,27),
     photoUrl: foto,
+    nameUser: "Seu stories",
+    
   },
+  
   {
     id:Math.random().toString(36).substring(2,27),
     photoUrl: foto2,
+    nameUser: "Marcodes",
   },
   {
     id:Math.random().toString(36).substring(2,27),
     photoUrl: foto3,
+    nameUser: "Ewerton",
   },
   {
     id:Math.random().toString(36).substring(2,27),
     photoUrl: foto4,
+    nameUser: "Ângela",
   },
   {
     id:Math.random().toString(36).substring(2,27),
     photoUrl: foto5,
+    nameUser: "Obama",
   },
   {
     id:Math.random().toString(36).substring(2,27),
     photoUrl: foto6,
+    nameUser: "Uninassau",
   },
   {
     id:Math.random().toString(36).substring(2,27),
     photoUrl: foto7,
+    nameUser: "Tio Bill",
   },
 ];
 
 
+
+
 export  function Home() {
+ 
   return (
     <View style={styles.container}>
      <View style={styles.header}>
@@ -69,10 +83,15 @@ export  function Home() {
       data={DATA}
       keyExtractor={item=> item.id}
       renderItem={(item) =>(
+       
         <View style={styles.storiesCard} key={item.item.id}>
-          <Image  style={styles.storiesCardImage} source={item.item.photoUrl}/>
+          <Image style={styles.storiesCardImage} source={item.item.photoUrl} />
+
+          <TextInput
+          style={styles.storiesName}
+          value={item.item.nameUser}    
+          />
         </View>
-      
       )}
 
       />
@@ -100,9 +119,9 @@ export  function Home() {
            <Bookmark/>
           </View>
           <View>
-            <Text>240.292 curtidas</Text>
-            <Text>Olha que laranja!</Text>
-            <Text>Ver todos os 89 comentários</Text>
+            <Text style={ styles.text}>240.292 curtidas</Text>
+            <Text style={ styles.text}>e desse jeito!</Text>
+            <Text style={ styles.textComent}>Ver todos os 289 comentários</Text>
           </View>
           </View>
            </View>
@@ -129,9 +148,9 @@ export  function Home() {
            <Bookmark/>
           </View>
           <View>
-            <Text>240.292 curtidas</Text>
-            <Text>Olha que laranja!</Text>
-            <Text>Ver todos os 89 comentários</Text>
+            <Text style={ styles.text}>40.122 curtidas</Text>
+            <Text style={ styles.text}>fico igualzinho</Text>
+            <Text style={ styles.textComent}>Ver todos os 75 comentários</Text>
           </View>
           </View>
            </View>
@@ -143,11 +162,12 @@ export  function Home() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#0000',
+    backgroundColor: '#121212',
     alignItems: 'center',
   
   },
   header: {
+    
     marginTop:40,
     paddingHorizontal: 10,
     width:'100%',
@@ -174,12 +194,20 @@ const styles = StyleSheet.create({
     paddingLeft:10,
     paddingVertical:10,
     alignItems:"center",
+  
 
   },
  storiesCard:{
   marginRight:14,
+  flexDirection:'column',
+  fontSize:5,
+  alignItems:'center'
   
 
+  },
+  storiesName:{
+    fontSize:12,
+    color:'#fff',
   },
   storiesCardImage:{
     width:64,
@@ -233,6 +261,14 @@ const styles = StyleSheet.create({
   },
   scroll:{
     width:"100%",
+  },
+  text:{
+    color:'#fff'
+  },
+  textComent:{
+    color:'gray',
+    fontSize:13,
+    
   }
 
 });
