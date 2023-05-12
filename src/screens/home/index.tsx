@@ -87,13 +87,10 @@ export  function Home() {
         <View style={styles.storiesCard} key={item.item.id}>
           <Image style={styles.storiesCardImage} source={item.item.photoUrl} />
 
-          <TextInput
-          style={styles.storiesName}
-          value={item.item.nameUser}    
-          />
+          <Text  style={styles.storiesName}>{item.item.nameUser} </Text>
         </View>
       )}
-
+     
       />
      </View>
         <ScrollView style={styles.scroll}>
