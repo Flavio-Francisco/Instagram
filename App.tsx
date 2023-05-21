@@ -13,8 +13,7 @@ export default function App() {
     <>
     <Routes/>
     <StatusBar style="light"/>
-     
-     
+    
     </>
   );
 }

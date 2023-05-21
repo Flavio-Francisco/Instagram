@@ -61,9 +61,6 @@ const DATA = [
   },
 ];
 
-
-
-
 export  function Home() {
  
   return (
